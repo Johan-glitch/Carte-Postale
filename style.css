@@ -1,0 +1,28 @@
+.cadre{
+    border: 2px solid black;
+}
+
+.taille_enveloppe{
+    width: 1000px;
+    height: 600px;
+}
+
+.timbre{
+    width: 150px;
+}
+
+.zonedetexte {
+    padding-left: 400px;
+}
+
+.ligne{
+    border-top: 2px solid black;
+    margin-bottom: 85px;
+    width: 70%;
+}
+
+.adresse{
+    margin-bottom: 55px;
+}
+
+.text1{padding-left: 400px;}
